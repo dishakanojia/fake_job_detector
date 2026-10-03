@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# 50 MB dataset: download command is in README.md
+data/fake_job_postings.csv
+# trained model is recreated by running the notebook
+*.joblib
+
+# personal interview notes (kept locally only)
+INTERVIEW_PREP.md
